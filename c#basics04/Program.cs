@@ -27,6 +27,12 @@
             //ans.q4
             //PrintBookTitle("clean code");
 
+            //ans.q5
+            //int pages = 400;
+            //AddBonusPages(pages);
+            //Console.WriteLine(pages);
+            //// Output: 400 because the AddBonusPages method is passing by value -value types.
+
         }
 
         //public static void printWelcomeMessage()
@@ -37,6 +43,11 @@
         //public static void PrintBookTitle(string title)
         //{
         //    Console.WriteLine("Book title: " + title);
+        //}
+
+        //public static void AddBonusPages(int pages)
+        //{
+        //    pages += 50;
         //}
     }
 
