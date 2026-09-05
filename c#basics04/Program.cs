@@ -45,6 +45,13 @@
             //Console.WriteLine(pages);
             // Output: 450 because the AddBonusPagesByRef method is passing by reference - value types.
 
+            //ans.q8
+            //double[] prices = { 5.0, 7.5 };
+            //ReplaceArray(ref prices);
+            //Console.WriteLine(prices.Length);
+            
+
+
         }
 
         //public static void printWelcomeMessage()
@@ -70,6 +77,11 @@
         //public static void AddBonusPagesByRef(ref int pages)
         //{
         //    pages += 50;
+        //}
+
+        //public static void ReplaceArray(ref double[] prices)
+        //{
+        //    prices = new double[] { 10.0, 12.5, 15.0 };
         //}
     }
 
