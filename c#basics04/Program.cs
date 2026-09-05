@@ -57,6 +57,10 @@
             //ans.q10
             //PrintBookInfo("clean code");
 
+            //ans.q11
+            //PrintBookInfo(pages:400, title:"clean code");
+
+
         }
 
         //public static void printWelcomeMessage()
@@ -102,10 +106,10 @@
         //        return false;
         //    }
         //}
-       //public static void PrintBookInfo(string title, int pages = 300)
-       // {
-       //     Console.WriteLine($"Title: {title}, Pages: {pages}");
-       // }
+        //public static void PrintBookInfo(string title, int pages = 300)
+        //{
+        //    Console.WriteLine($"Title: {title}, Pages: {pages}");
+        //}
     }
 
 }
