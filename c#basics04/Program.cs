@@ -54,7 +54,8 @@
             //TryGetPrice("clean code", out double price);
             //Console.WriteLine(price);
 
-
+            //ans.q10
+            //PrintBookInfo("clean code");
 
         }
 
@@ -101,6 +102,10 @@
         //        return false;
         //    }
         //}
+       //public static void PrintBookInfo(string title, int pages = 300)
+       // {
+       //     Console.WriteLine($"Title: {title}, Pages: {pages}");
+       // }
     }
 
 }
