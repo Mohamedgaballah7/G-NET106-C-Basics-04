@@ -2,6 +2,7 @@
 {
     internal class Program
     {
+
         static void Main(string[] args)
         {
             //ans.q1
@@ -19,6 +20,17 @@
             //};
             //Console.WriteLine(shelfCopies[1,0]); 
             #endregion
+
+            //ans.q3
+            //printWelcomeMessage();
+
         }
+
+        //public static void printWelcomeMessage()
+        //{
+        //    Console.WriteLine("Welcome to the Library!");
+        //}
     }
+
 }
+
