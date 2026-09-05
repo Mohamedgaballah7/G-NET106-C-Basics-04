@@ -24,11 +24,19 @@
             //ans.q3
             //printWelcomeMessage();
 
+            //ans.q4
+            //PrintBookTitle("clean code");
+
         }
 
         //public static void printWelcomeMessage()
         //{
         //    Console.WriteLine("Welcome to the Library!");
+        //}
+
+        //public static void PrintBookTitle(string title)
+        //{
+        //    Console.WriteLine("Book title: " + title);
         //}
     }
 
