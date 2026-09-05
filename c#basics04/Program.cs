@@ -10,7 +10,15 @@
             //Console.WriteLine(arr[1]); 
             #endregion
 
-
+            //ans.q2
+            #region Create a 2x2 multidimensional array
+            //int[,] shelfCopies =
+            //{
+            //    { 3, 5 },
+            //    { 1, 4 }
+            //};
+            //Console.WriteLine(shelfCopies[1,0]); 
+            #endregion
         }
     }
 }
