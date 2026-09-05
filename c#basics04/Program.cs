@@ -49,7 +49,11 @@
             //double[] prices = { 5.0, 7.5 };
             //ReplaceArray(ref prices);
             //Console.WriteLine(prices.Length);
-            
+
+            //ans.q9
+            //TryGetPrice("clean code", out double price);
+            //Console.WriteLine(price);
+
 
 
         }
@@ -82,6 +86,20 @@
         //public static void ReplaceArray(ref double[] prices)
         //{
         //    prices = new double[] { 10.0, 12.5, 15.0 };
+        //}
+
+        //public static bool TryGetPrice(string title, out double price)
+        //{
+        //   if(title== "clean code")
+        //    {
+        //        price = 25.5;
+        //        return true;
+        //    }
+        //    else
+        //    {
+        //        price = 0.0;
+        //        return false;
+        //    }
         //}
     }
 
