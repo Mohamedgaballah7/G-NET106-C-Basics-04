@@ -32,12 +32,18 @@
             //AddBonusPages(pages);
             //Console.WriteLine(pages);
             //// Output: 400 because the AddBonusPages method is passing by value -value types.
-          
+
             //ans.q6
             //double[] prices = { 25.5, 40.0 };
             //ApplyDiscount(prices);
             //Console.WriteLine(prices[0]);
             // Output: 20.5 because the ApplyDiscount method is passing the array by reference - reference types.
+
+            //ans.q7
+            //int pages = 400;
+            //AddBonusPagesByRef(ref pages);
+            //Console.WriteLine(pages);
+            // Output: 450 because the AddBonusPagesByRef method is passing by reference - value types.
 
         }
 
@@ -59,6 +65,11 @@
         //public static void ApplyDiscount(double[] prices)
         //{
         //    prices[0] -= 5;
+        //}
+
+        //public static void AddBonusPagesByRef(ref int pages)
+        //{
+        //    pages += 50;
         //}
     }
 
