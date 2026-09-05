@@ -60,6 +60,9 @@
             //ans.q11
             //PrintBookInfo(pages:400, title:"clean code");
 
+            //ans.q12
+            //PrintAllTitles("clean code", "refactoring", "design patterns");
+
 
         }
 
@@ -110,6 +113,14 @@
         //{
         //    Console.WriteLine($"Title: {title}, Pages: {pages}");
         //}
+
+       //public static void PrintAllTitles(params string[] titles)
+       // {
+       //     foreach (string title in titles)
+       //     {
+       //         Console.WriteLine($"Title: {title}");
+       //     }
+       // }
     }
 
 }
